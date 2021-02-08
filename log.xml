@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-02-08T12:31:28.254871300Z</date>
+  <millis>1612787488254</millis>
+  <nanos>871300</nanos>
+  <sequence>0</sequence>
+  <logger>com.mu.demo.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.mu.demo.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>17</thread>
+  <message>Before double com.mu.demo.Model.Circle.surface()</message>
+</record>
+<record>
+  <date>2021-02-08T12:31:28.266862500Z</date>
+  <millis>1612787488266</millis>
+  <nanos>862500</nanos>
+  <sequence>1</sequence>
+  <logger>com.mu.demo.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.mu.demo.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>17</thread>
+  <message>after double com.mu.demo.Model.Circle.surface()</message>
+</record>
+<record>
+  <date>2021-02-08T12:31:28.268861800Z</date>
+  <millis>1612787488268</millis>
+  <nanos>861800</nanos>
+  <sequence>2</sequence>
+  <logger>com.mu.demo.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.mu.demo.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>17</thread>
+  <message>Duration : 13ms</message>
+</record>
+<record>
+  <date>2021-02-08T12:31:28.268861800Z</date>
+  <millis>1612787488268</millis>
+  <nanos>861800</nanos>
+  <sequence>3</sequence>
+  <logger>com.mu.demo.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.mu.demo.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>17</thread>
+  <message>Before double com.mu.demo.Model.Rectangle.piremiter()</message>
+</record>
+<record>
+  <date>2021-02-08T12:31:28.274856800Z</date>
+  <millis>1612787488274</millis>
+  <nanos>856800</nanos>
+  <sequence>4</sequence>
+  <logger>com.mu.demo.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.mu.demo.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>17</thread>
+  <message>after double com.mu.demo.Model.Rectangle.piremiter()</message>
+</record>
+<record>
+  <date>2021-02-08T12:31:28.274856800Z</date>
+  <millis>1612787488274</millis>
+  <nanos>856800</nanos>
+  <sequence>5</sequence>
+  <logger>com.mu.demo.Aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.mu.demo.Aspect.LogAspect</class>
+  <method>log</method>
+  <thread>17</thread>
+  <message>Duration : 6ms</message>
+</record>
+</log>
